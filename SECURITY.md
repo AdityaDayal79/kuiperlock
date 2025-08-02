@@ -10,9 +10,9 @@ We actively maintain security support for the following versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| main    | ✅ :white_check_mark: |
-| dev     | ❌ :x:              |
-| legacy  | ❌ :x:              |
+| main    | ✅  |
+| dev     | ❌  |
+| legacy  | ❌  |
 
 ---
 
