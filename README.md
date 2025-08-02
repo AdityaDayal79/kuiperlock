@@ -2,7 +2,7 @@
 
 **KuiperLock** is an experimental open-source project focused on space cybersecurity.
 
-The goal is to create tools that help identify and prevent vulnerabilities in satellite firmware, communication protocols, and mission software — especially for CubeSats and small satellite teams.
+The goal is to create tools that help identify and prevent vulnerabilities in satellite firmware, communication protocols, and mission software — especially for CubeSats, small satellite teams and future lunar digital infrastructure systems.
 
 > This project is in its very early phase. Nothing is functional yet. Contributions, ideas, and feedback are welcome.
 
@@ -10,7 +10,7 @@ The goal is to create tools that help identify and prevent vulnerabilities in sa
 
 ## 🔍 What It Might Eventually Do
 
-- Scan satellite codebases for security issues
+- Scan satellite and lunar infrastructure codebases for security issues
 - Fuzz communication protocols (like CCSDS)
 - Provide a checklist for securing telemetry and firmware
 - Explore vulnerabilities in open-source space systems
