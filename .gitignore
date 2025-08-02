@@ -1,1 +1,41 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+.env
+.venv
+ENV/
+env/
+venv/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# C and C++ ignores
+*.o
+*.obj
+*.dll
+*.exe
+*.out
+*.a
+
+# Ignore all .bin files
 *.bin
+
+# Logs and system files
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE/editor directories
+.vscode/
+.idea/
