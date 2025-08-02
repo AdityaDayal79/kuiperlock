@@ -1,38 +1,36 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐞 Bug Report
+about: Report a bug to help us improve KuiperLock
+title: '[BUG] <short description>'
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**🧩 Describe the bug**
+A clear and concise description of the unexpected behavior or failure.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**📚 To Reproduce**
+List the steps to reproduce the behavior. For example:
+1. Clone the repo and run `scanner/main.c`
+2. Use input file `example.txt`
+3. Observe incorrect output or error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**✅ Expected behavior**
+What should have happened instead?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**🖥️ Environment**
+- OS: [e.g., Fedora 40, Ubuntu 22.04]
+- Python Version (if applicable): [e.g., 3.11.2]
+- Compiler / Tools used: [e.g., gcc, clang]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**📸 Screenshots / Logs**
+If applicable, paste **terminal output**, stack trace, or add screenshots.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**📱 Optional - Device Info**
+(If you're testing on embedded / simulated hardware)
+- Device: [e.g., QEMU ARM, STM32 Nucleo]
+- Firmware version: [if applicable]
 
-**Additional context**
-Add any other context about the problem here.
+**🗒️ Additional Context**
+Add any other relevant information, config flags, or links that might help us debug the issue.
